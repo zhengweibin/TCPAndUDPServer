@@ -3,7 +3,7 @@
 simple demo of tcp and udp server
 
 ## Getting Started
-run a simple way
+type the following command at a shell prompt:
 ```
 javac TCPServer.java && java TCPServer &
 ```
